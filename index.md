@@ -6,6 +6,7 @@
 ##[Expected utility framework](eu.html)
 ##[Prospect theory](prospect.html)
 ##[Heuristics and rules of thumb](heuristics.html)
+##[Time dimension](time_utility.html)
 ##[Noise](noise.html)
 ##[Surgery](surgery.html)
 ##[Experiments](experiment.html)
