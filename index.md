@@ -5,6 +5,7 @@
 ##[Introduction to expected utility](intro_eu.html)
 ##[Expected utility framework](eu.html)
 ##[Prospect theory](prospect.html)
+##[Time dimensions of utility](time_utility.html)
 ##[Experiments](experiment.html)
 
 
