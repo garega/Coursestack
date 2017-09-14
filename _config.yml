@@ -1,12 +1,9 @@
-title: Behavioral finance
-description: behavioral finance slides
+title: Resources for finance courses
+description: finance slides
 google_analytics: 
 show_downloads: true
 <<<<<<< HEAD
 theme: jekyll-theme-architect
-=======
-theme: jekyll-theme-cayman
->>>>>>> master
 
 gems:
   - jekyll-mentions
