@@ -4,6 +4,7 @@
 
 ##[Investment context](investment_context.html)
 ##[What we know in finance](whatweknow.html)
+##[Laura Martin](laura_martin.html)
 
 #Behavioral finance
 
@@ -14,7 +15,3 @@
 ##[Prospect theory](prospect.html)
 ##[Time dimensions of utility](time_utility.html)
 ##[Experiments](experiment.html)
-
-
-
-
