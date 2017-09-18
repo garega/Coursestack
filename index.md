@@ -1,12 +1,12 @@
-# Resources for finance courses #
 
-#Investment management and analysis
+
+# Investment management and analysis
 
 ##[Investment context](investment_context.html)
 ##[What we know in finance](whatweknow.html)
 ##[Laura Martin](laura_martin.html)
 
-#Behavioral finance
+# Behavioral finance
 
 ##[Introduction to behavioral finance](bf_intro.html)
 ##[Limits to rationality](limits_to_rationality.html)
