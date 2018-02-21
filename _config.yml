@@ -1,8 +1,8 @@
 title: Behavioral finance
 description: behavioral finance slides
-google_analytics: 
+google_analytics:
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
