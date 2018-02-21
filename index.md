@@ -13,5 +13,7 @@
 ## [Introduction to expected utility](intro_eu.html)
 ## [Expected utility framework](eu.html)
 ## [Prospect theory](prospect.html)
+## [Noise](noise.html)
+## [Biological foundations of decision making](bio_dec.html)
 ## [Time dimensions of utility](time_utility.html)
 ## [Experiments](experiment.html)
