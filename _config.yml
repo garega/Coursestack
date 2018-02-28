@@ -13,4 +13,4 @@ show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
-  - jekyll-mentions
+- jekyll-mentions
