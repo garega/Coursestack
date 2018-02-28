@@ -4,10 +4,14 @@ description: finance slides
 google_analytics:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 show_downloads: true
 =======
 show_downloads: false
 >>>>>>> master
+=======
+show_downloads: false
+>>>>>>> origin/gh-pages
 =======
 show_downloads: false
 >>>>>>> origin/gh-pages
@@ -18,10 +22,14 @@ description: behavioral finance slides
 google_analytics:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 show_downloads: true
 =======
 show_downloads: false
 >>>>>>> master
+=======
+show_downloads: false
+>>>>>>> origin/gh-pages
 =======
 show_downloads: false
 >>>>>>> origin/gh-pages
