@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 title: Resources for finance courses
 description: finance slides
 google_analytics:
 show_downloads: true
 
+=======
+title: Behavioral finance
+description: behavioral finance slides
+google_analytics:
+show_downloads: true
+>>>>>>> master
 theme: jekyll-theme-minimal
 
 gems:
