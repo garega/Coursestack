@@ -17,13 +17,9 @@
 ## [Biological foundations of decision making](bio_dec.html)
 ## [Time dimensions of utility](time_utility.html)
 ## [Experiments](experiment.html)
-<<<<<<< HEAD
 ## [Systems](systems.html)
+
+
+
 =======
->>>>>>> master
-
-
-<<<<<<< HEAD
-=======
-
 >>>>>>> origin/gh-pages

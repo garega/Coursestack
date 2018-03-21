@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Resources for finance courses
 description:finance slides
 google_analytics
@@ -15,6 +16,9 @@ theme:jekyll-theme-minimal
 
 gems:
 - jekyll-mentions
+=======
+theme: jekyll-theme-minimal
+>>>>>>> origin/gh-pages
 =======
 theme: jekyll-theme-minimal
 >>>>>>> origin/gh-pages
