@@ -23,3 +23,7 @@
 >>>>>>> master
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/gh-pages
