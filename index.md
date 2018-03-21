@@ -18,8 +18,11 @@
 ## [Time dimensions of utility](time_utility.html)
 ## [Experiments](experiment.html)
 ## [Systems](systems.html)
+<<<<<<< HEAD
 
 
 
 =======
 >>>>>>> origin/gh-pages
+=======
+>>>>>>> master
