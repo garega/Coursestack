@@ -19,6 +19,5 @@
 ### [Time dimensions of utility](time_utility.html)
 ### [Experiments](experiment.html)
 ### [Systems](systems.html)
-// ## [Zeppa](zeppa.html)//
 
-### for educational purposes only, heavily based on work of the giants, on whose shoulders i stand
+#### for educational purposes only, heavily based on work of the giants, on whose shoulders i stand
