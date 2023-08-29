@@ -1,6 +1,11 @@
 
 # Learning materials by Garegin Gevorgyan
 
+##   
+## Management of financial institutions
+
+### [Why are financial intermediaries special](value_of_finint.html)
+
 ## Investment management and analysis
 
 ### [Investment context](investment_context.html)
