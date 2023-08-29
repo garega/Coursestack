@@ -1,4 +1,6 @@
+# Management of financial institutions
 
+## [Why are financial intermediaries special](value_of_finint.html)
 
 # Investment management and analysis
 
