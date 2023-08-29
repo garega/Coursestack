@@ -10,6 +10,28 @@
 
 */
 
+body {
+    font-family: Roboto;
+    font-size: 250%;
+    margin: 0;
+    line-height: 1.5;
+}
+
+h1 {
+  font-family: Roboto;
+  font-size: 250%;
+  margin: 0;
+
+}
+
+h2 {
+  font-family: Roboto;
+  font-size: 100%;
+  margin: 0;
+
+}
+
+
 .impress-supported .fallback-message,
 .step .notes {
     display: none;
